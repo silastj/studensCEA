@@ -4,6 +4,7 @@
   - apollo-server
   - graphql
   - fetch
+  - sqlite3
 
 # Devs
 - Amós Silas
